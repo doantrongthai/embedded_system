@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:76:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:88:6:vStartFreeRTOSTasks	16	static
+../Core/Src/freertos.c:100:6:vTask_FireAlarm	24	static
+../Core/Src/freertos.c:118:6:vTask_Sensor	16	static
+../Core/Src/freertos.c:127:6:vTask_Battery_LCD	16	static
+../Core/Src/freertos.c:128:6:vTask_ESP	16	static

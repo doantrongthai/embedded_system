@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:76:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:88:6:vStartFreeRTOSTasks	1
+../Core/Src/freertos.c:100:6:vTask_FireAlarm	2
+../Core/Src/freertos.c:118:6:vTask_Sensor	1
+../Core/Src/freertos.c:127:6:vTask_Battery_LCD	1
+../Core/Src/freertos.c:128:6:vTask_ESP	1
